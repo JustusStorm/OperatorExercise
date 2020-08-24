@@ -1,0 +1,13 @@
+D:\Github_Repositories\TrueCoders\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.exe
+D:\Github_Repositories\TrueCoders\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.deps.json
+D:\Github_Repositories\TrueCoders\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.runtimeconfig.json
+D:\Github_Repositories\TrueCoders\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.runtimeconfig.dev.json
+D:\Github_Repositories\TrueCoders\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.dll
+D:\Github_Repositories\TrueCoders\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.pdb
+D:\Github_Repositories\TrueCoders\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.csprojAssemblyReference.cache
+D:\Github_Repositories\TrueCoders\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.AssemblyInfoInputs.cache
+D:\Github_Repositories\TrueCoders\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.AssemblyInfo.cs
+D:\Github_Repositories\TrueCoders\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.csproj.CoreCompileInputs.cache
+D:\Github_Repositories\TrueCoders\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.dll
+D:\Github_Repositories\TrueCoders\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.pdb
+D:\Github_Repositories\TrueCoders\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.genruntimeconfig.cache
